@@ -34,8 +34,5 @@ Welcome to my GitHub profile! I am a passionate full-stack developer with a stro
 - **[Motopedia](https://github.com/MykolaKriuk/Motopedia)** A Wikipedia-like encyclopedia for motorcycle models. Features search with live filtering, full specs, user authentication, and an admin panel with role-based access control. Includes internationalization (English & Polish).  
   *Tech: React 19, Node.js, Express, MySQL, JWT*
 
-### 📈 GitHub Stats
-![Mykola's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykolaKriuk&show_icons=true&theme=radium)
-
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykola-kriukov/)
